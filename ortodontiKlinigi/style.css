@@ -1,0 +1,144 @@
+html,
+body,
+#cover {
+    height: 100%;
+}
+#cover {
+    background-image: url('img\anasayfa.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;  
+}
+h1{
+    margin-top: 20%;
+    font-family: 'Short Stack', cursive;
+    font-size: 60px;
+    color: rgb(15, 5, 99);
+}
+h2 {
+
+    font-family: 'Short Stack', cursive;
+    font-size:80px;
+    color: rgb(83, 3, 3);
+}
+h3 {
+    
+    margin-bottom: 45px ;
+    font-family: 'Short Stack', cursive;
+    font-size:50px;
+    color: rgb(0, 0, 0);
+}
+
+#hakkinda{
+    padding: 90px 0;
+}
+
+.hakkinda-content .row {
+    margin-bottom: 35px;
+}
+
+.hakkinda-content {
+    position: relative;
+}
+.hakkinda-content::before  {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 4px;
+    background-color: #f1f1f1;
+}
+
+.doktor-content .row {
+    margin-bottom: 80px;
+}
+#doktor{
+    padding: 90px 0;
+}
+
+
+#galeri{
+    padding: 90px 0;
+}
+
+#iletisim{
+    padding: 90px 0;
+    background-color: rgba(241, 234, 234, 0.856);
+}
+h5{
+    
+    font-size:35px;
+}
+
+.social-icons{
+   
+    margin: 0;
+    padding: 0;
+}
+.social-icon{
+    
+    margin: 0;
+    padding: 0;
+}
+
+.golden-from{
+    padding: 30px;
+}
+
+#name{
+    width: 90%;
+    height: 40px;
+    padding-left: 7px;
+    margin-bottom: 20px ;
+    border-style: none;
+    border-radius: 3px;
+}
+#email{
+    width: 90%;
+    height: 40px;
+    padding-left: 7px;
+    margin-bottom: 20px ;
+    border-style: none;
+    border-radius: 3px;
+}
+#konu{
+    width: 90%;
+    height: 40px;
+    padding-left: 7px;
+    margin-bottom: 20px ;
+    border-style: none;
+    border-radius: 3px;
+}
+textarea {
+    width: 90%;
+    height: 160px;
+    padding-left: 7px;
+    margin-bottom: 20px ;
+    border-style: none;
+    border-radius: 3px;
+}
+#footer{
+    padding: 20px 0;
+}
+
+.compaty-social-icons{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+.compaty-social-icon{
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+    color: #fff;
+}
+.compaty-social-icon .fa{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #000;
+    line-height:40px;
+}
+
+
