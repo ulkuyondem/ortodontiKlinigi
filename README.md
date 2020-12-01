@@ -1,3 +1,3 @@
 # ortodontiKlinigi 
  
-Ortodonti Kliniği web sayfası tasarımı
+Ortodonti Kliniği web sayfası
